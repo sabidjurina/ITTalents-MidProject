@@ -1,0 +1,330 @@
+{
+  "ivan@abv.bg": {
+    "userCreationTime": "2019-02-17T22:02:22",
+    "isLoggedIn": true,
+    "commentedPosts": [
+      {
+        "photo": "photo12",
+        "description": "Mega qkata snimka, brat!22",
+        "isSensitive": false,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Animals",
+        "tags": [],
+        "comments": [
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "commenting this",
+            "points": 0,
+            "replies": [
+              {
+                "date": "2019-02-17T22:02:22",
+                "content": "this is my reply",
+                "points": 0,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "photo": "Animal Photo3",
+        "description": "Ebasi qkiq jiraf!",
+        "isSensitive": false,
+        "postDate": "2019-02-17T21:38:19",
+        "points": 21,
+        "upvotes": 22,
+        "section": "Animals",
+        "tags": [
+          "animal",
+          "jiraf"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T23:54:44",
+            "content": "comment1",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "posts": [
+      {
+        "photo": "photo1",
+        "description": "Mega qkata snimka, brat!",
+        "isSensitive": false,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Animals",
+        "tags": [
+          "fun",
+          "fun22",
+          "qko",
+          "qko22",
+          "snimka",
+          "snimka22"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi2 comment",
+            "points": 0,
+            "replies": []
+          },
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi3 comment",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "photo": "photo2",
+        "description": "Malko tupa snimka, brat!",
+        "isSensitive": true,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Funny",
+        "tags": [
+          "tag1",
+          "tag10"
+        ],
+        "comments": []
+      }
+    ],
+    "upvotes": [],
+    "favouriteSections": [],
+    "notifications": [],
+    "settings": {
+      "photo": "photo6",
+      "userName": "ivan",
+      "sensitiveContent": false
+    },
+    "fullName": "Ivan m",
+    "password": "Cska1948",
+    "email": "ivan@abv.bg"
+  },
+  "ivan2@abv.bg": {
+    "userCreationTime": "2019-02-17T22:02:22",
+    "isLoggedIn": true,
+    "commentedPosts": [
+      {
+        "photo": "photo1",
+        "description": "Mega qkata snimka, brat!",
+        "isSensitive": false,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Animals",
+        "tags": [
+          "fun",
+          "fun22",
+          "qko",
+          "qko22",
+          "snimka",
+          "snimka22"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi2 comment",
+            "points": 0,
+            "replies": []
+          },
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi3 comment",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "posts": [
+      {
+        "photo": "photo12",
+        "description": "Mega qkata snimka, brat!22",
+        "isSensitive": false,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Animals",
+        "tags": [],
+        "comments": [
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "commenting this",
+            "points": 0,
+            "replies": [
+              {
+                "date": "2019-02-17T22:02:22",
+                "content": "this is my reply",
+                "points": 0,
+                "replies": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "photo": "files photo",
+        "description": "Nova qka snimka",
+        "isSensitive": true,
+        "postDate": "2019-02-17T09:42:47",
+        "points": 2,
+        "upvotes": 4,
+        "section": "Sport",
+        "tags": [
+          "sportove"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T16:54:58",
+            "content": "asda",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "upvotes": [],
+    "favouriteSections": [],
+    "notifications": [],
+    "settings": {
+      "photo": "photo22",
+      "userName": "ivan2",
+      "sensitiveContent": false
+    },
+    "fullName": "Ivan m2",
+    "password": "Cska19482",
+    "email": "ivan2@abv.bg"
+  },
+  "ivan3@abv.bg": {
+    "userCreationTime": "2019-02-17T22:02:22",
+    "isLoggedIn": true,
+    "commentedPosts": [
+      {
+        "photo": "photo1",
+        "description": "Mega qkata snimka, brat!",
+        "isSensitive": false,
+        "postDate": "2019-02-17T22:02:22",
+        "points": 0,
+        "upvotes": 0,
+        "section": "Animals",
+        "tags": [
+          "fun",
+          "fun22",
+          "qko",
+          "qko22",
+          "snimka",
+          "snimka22"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi2 comment",
+            "points": 0,
+            "replies": []
+          },
+          {
+            "date": "2019-02-17T22:02:22",
+            "content": "usi3 comment",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      },
+      {
+        "photo": "files photo",
+        "description": "Nova qka snimka",
+        "isSensitive": true,
+        "postDate": "2019-02-17T09:42:47",
+        "points": 3,
+        "upvotes": 3,
+        "section": "Sport",
+        "tags": [
+          "sportove"
+        ],
+        "comments": [
+          {
+            "date": "2019-02-17T16:54:58",
+            "content": "asda",
+            "points": 0,
+            "replies": []
+          }
+        ]
+      }
+    ],
+    "posts": [
+      {
+        "photo": "Animal Photo3",
+        "description": "Ebasi qkiq jiraf!",
+        "isSensitive": false,
+        "postDate": "2019-02-17T21:38:19",
+        "points": 21,
+        "upvotes": 22,
+        "section": "Animals",
+        "tags": [
+          "animal",
+          "jiraf"
+        ],
+        "comments": []
+      }
+    ],
+    "upvotes": [],
+    "favouriteSections": [],
+    "notifications": [],
+    "settings": {
+      "photo": "photo16",
+      "userName": "ivan3",
+      "birthDate": {},
+      "country": "Argentina",
+      "description": "Something killing",
+      "gender": "MALE",
+      "sensitiveContent": false
+    }
+  },
+  "sabiha.djurina@abv.bg": {
+    "userCreationTime": "2019-02-18T12:51:06",
+    "isLoggedIn": true,
+    "commentedPosts": [],
+    "posts": [],
+    "upvotes": [],
+    "favouriteSections": [],
+    "notifications": [],
+    "settings": {
+      "photo": "photo22",
+      "userName": "sabihadjurina",
+      "sensitiveContent": false
+    },
+    "fullName": "Sabiha Dzhurina",
+    "password": "Cska1948",
+    "email": "sabiha.djurina@abv.bg"
+  },
+  "DKiller23@abv.bg": {
+    "userCreationTime": "2019-02-16T23:22:55",
+    "isLoggedIn": true,
+    "commentedPosts": [],
+    "posts": [],
+    "upvotes": [],
+    "favouriteSections": [],
+    "notifications": [],
+    "settings": {
+      "photo": "photo12",
+      "userName": "DKiller23",
+      "birthDate": {},
+      "country": "Aruba",
+      "description": "Im a Killer baby",
+      "gender": "MALE",
+      "sensitiveContent": false
+    },
+    "fullName": "Ivan m3",
+    "password": "Cska19483",
+    "email": "ivan3@abv.bg"
+  }
+}
